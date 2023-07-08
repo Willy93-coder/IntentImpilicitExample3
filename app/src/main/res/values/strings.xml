@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">IntentImpilicitExample3</string>
+    <string name="open_url">Abrir una GitHub</string>
+    <string name="call">Realizar llamada telefónica</string>
 </resources>
